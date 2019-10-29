@@ -1,0 +1,285 @@
+# Olek, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ru\n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "about.aboutTitle"
+msgstr "Информация"
+
+msgid "cheatSheet.cheatSheetTitle"
+msgstr "Шпаргалка"
+
+msgid "common.appTitle"
+msgstr "Лого"
+
+msgid "common.areYouSure"
+msgstr "Вы уверены?"
+
+msgid "common.cancel"
+msgstr "Отменить"
+
+msgid "common.continue"
+msgstr "Продолжить"
+
+msgid "common.copied"
+msgstr "Скопировано"
+
+msgid "common.copyToClipboard"
+msgstr "Скопировать в буфер обмена"
+
+msgid "common.delete"
+msgstr "Удалить"
+
+msgid "common.error"
+msgstr "Произошла ошибка"
+
+msgid "common.save"
+msgstr "Сохранить"
+
+msgid "common.signIn"
+msgstr "Войти"
+
+msgid "common.signInWithGoogle"
+msgstr "Войти с помощью Google"
+
+msgid "common.signOut"
+msgstr "Выйти"
+
+msgid "gallery.addedProgramsMessage"
+msgstr[0] "Добавлена %d программа."
+msgstr[1] "Добавлено %d программы."
+msgstr[2] "Добавлено %d программ."
+
+msgid "gallery.chooseAFile"
+msgstr "Выбрать файл…"
+
+msgid "gallery.emptyLibrary"
+msgstr "В вашей персональной библиотеке пока нет программ."
+
+msgid "gallery.examples"
+msgstr "Примеры"
+
+msgid "gallery.export"
+msgstr "Экспорт"
+
+msgid "gallery.galleryImage"
+msgstr "Картина в галлерею"
+
+msgid "gallery.galleryTitle"
+msgstr "Галлерея"
+
+msgid "gallery.import"
+msgstr "Импорт"
+
+msgid "gallery.importCompletedTitle"
+msgstr "Импорт завершен успешно"
+
+msgid "gallery.importModalTitle"
+msgstr "Импорт программ в библиотеку"
+
+msgid "gallery.library"
+msgstr "Библиотека"
+
+msgid "gallery.notLoggedInGalleryMessage"
+msgstr "Для синхронизации персональной библиотеки необходимо войти в свой аккаунт."
+
+msgid "gallery.shapes"
+msgstr "Фигуры"
+
+msgid "gallery.wrongFileFormatForImport"
+msgstr "Данный формат файла не поддерживается."
+
+msgid "login.notLoggedInSignInMessage"
+msgstr "Вход в систему позволяет сохранить библиотеку программ в вашей учетной записи. Таким образом, вы можете синхронизировать свою библиотеку на нескольких устройствах и получать доступ к своим данным из любого места."
+
+msgid "login.title"
+msgstr "Войти"
+
+msgid "program.codePanelTitle"
+msgstr "Программа"
+
+msgid "program.formatDocument"
+msgstr "Выровнять код"
+
+msgid "program.imagePreview"
+msgstr "Скриншот"
+
+msgid "program.imageUrl"
+msgstr "Публичная ссылка"
+
+msgid "program.outputPanelTitle"
+msgstr "Картина"
+
+msgid "program.playgroundTitle"
+msgstr "Мастерская"
+
+msgid "program.pleaseEnterNameForYourProgram"
+msgstr "Введите название своей программы"
+
+msgid "program.program"
+msgstr "Программа"
+
+msgid "program.programHasChanges"
+msgstr "У вас есть изменения в программе."
+
+msgid "program.programName"
+msgstr "Название программы"
+
+msgid "program.publicUrl"
+msgstr "Публичная ссылка"
+
+msgid "program.revertChanges"
+msgstr "Отменить изменения"
+
+msgid "program.run"
+msgstr "Запуск"
+
+msgid "program.runDescription"
+msgstr "Запустить программу"
+
+msgid "program.save"
+msgstr "Сохранить"
+
+msgid "program.saveAs"
+msgstr "Сохранить как ..."
+
+msgid "program.saveToLibraryModalTitle"
+msgstr "Сохранить в библиотеке"
+
+msgid "program.screenshotModalTitle"
+msgstr "Скриншот"
+
+msgid "program.share"
+msgstr "Опубликовать"
+
+msgid "program.shareYourProgramModalTitle"
+msgstr "Опубликовать"
+
+msgid "program.stop"
+msgstr "Стоп"
+
+msgid "program.stopDescription"
+msgstr "Остановить выполнение программы"
+
+msgid "program.takeScreenshot"
+msgstr "Сделать скриншот"
+
+msgid "program.youAreGoingToDeleteProgram"
+msgstr "Вы собираетесь удалить эту программу."
+
+msgid "settings.language"
+msgstr "Язык"
+
+msgid "settings.settingsTitle"
+msgstr "Настройки"
+
+msgid "settings.turtleSize"
+msgstr "Размер черепахи"
+
+msgid "settings.turtleSizes.extraSmall"
+msgstr "Очень маленький"
+
+msgid "settings.turtleSizes.huge"
+msgstr "Огромный"
+
+msgid "settings.turtleSizes.large"
+msgstr "Крупный"
+
+msgid "settings.turtleSizes.medium"
+msgstr "Средний"
+
+msgid "settings.turtleSizes.small"
+msgstr "Маленький"
+
+msgid "settings.turtleSkin"
+msgstr "Вид черепахи"
+
+msgid "settings.turtleSkins.bob"
+msgstr "Весёлый Боб"
+
+msgid "settings.turtleSkins.bright_runner"
+msgstr "Мистер"
+
+msgid "settings.turtleSkins.chameleon"
+msgstr "Хамелеон"
+
+msgid "settings.turtleSkins.diver"
+msgstr "Ныряльщик"
+
+msgid "settings.turtleSkins.princess"
+msgstr "Принцесса"
+
+msgid "settings.turtleSkins.summer"
+msgstr "Жорик"
+
+msgid "settings.uiTheme"
+msgstr "Тема пользовательского интерфейса"
+
+msgid "tutorial.back"
+msgstr "Назад"
+
+msgid "tutorial.chooseAnotherTutorial"
+msgstr "Выбрать другой раздел"
+
+msgid "tutorial.chooseTutorial"
+msgstr "Выберите раздел"
+
+msgid "tutorial.fixTheCodeMessage"
+msgstr "Если ваш код не работает, как описано в учебнике, вы можете заменить его рабочей версией."
+
+msgid "tutorial.fixTheCodeTitle"
+msgstr "Исправить код?"
+
+msgid "tutorial.fixTheCodeWarning"
+msgstr "Это полностью перезапишет ваш код."
+
+msgid "tutorial.helpItsNotworking"
+msgstr "Помогите - не работает!"
+
+msgid "tutorial.noLeaveItAsIs"
+msgstr "Отменить"
+
+msgid "tutorial.start"
+msgstr "Вперед"
+
+msgid "tutorial.stepIndicator"
+msgstr "Шаг %1$s из %2$s"
+
+msgid "tutorial.tutorialPanelTitle"
+msgstr "Учебник"
+
+msgid "tutorial.tutorialsTitle"
+msgstr "Учебники"
+
+msgid "tutorial.yesFixMyCode"
+msgstr "Да, исправить"
+
+msgid "welcome.galleryLinkDescription"
+msgstr "Галерея предоставляет множество примеров разных уровней сложности. Получите вдохновение и раскройте силу своего творчества."
+
+msgid "welcome.galleryLinkHeader"
+msgstr "Галерея"
+
+msgid "welcome.playgroundLinkDescription"
+msgstr "Это мастерская, где вы можете писать и запускать свои программы LOGO в интерактивном режиме."
+
+msgid "welcome.playgroundLinkHeader"
+msgstr "Мастерская"
+
+msgid "welcome.title"
+msgstr "Добро пожаловать!"
+
+msgid "welcome.tutorialsLinkDescription"
+msgstr "Учебники - лучший способ быстро и весело учиться. Если вы новичок в программировании LOGO, этот раздел для вас."
+
+msgid "welcome.tutorialsLinkHeader"
+msgstr "Учебники"

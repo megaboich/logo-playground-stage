@@ -1,0 +1,204 @@
+{
+  "tutorials": [
+    {
+      "id": "01-basics",
+      "label": "Turtle basics",
+      "description": "Introduction and LOGO language basics",
+      "level": "Beginner",
+      "steps": [
+        {
+          "name": "Welcome",
+          "id": "01-welcome"
+        },
+        {
+          "name": "Basic movement commands",
+          "id": "02-movement"
+        },
+        {
+          "name": "Controlling the pen",
+          "id": "03-pen"
+        },
+        {
+          "name": "Adding the colors",
+          "id": "04-colors"
+        },
+        {
+          "name": "Hiding the turtle",
+          "id": "05-hide"
+        },
+        {
+          "name": "Short commands",
+          "id": "06-shortcuts"
+        },
+        {
+          "name": "Tutorial is completed",
+          "id": "07-finish"
+        }
+      ]
+    },
+    {
+      "id": "02-graphics",
+      "label": "Graphic primitives",
+      "description": "Working with various graphic commands",
+      "level": "Beginner",
+      "steps": [
+        {
+          "name": "Working with labels",
+          "id": "01-label"
+        },
+        {
+          "name": "Circles and segments",
+          "id": "02-arc"
+        },
+        {
+          "name": "Fill command",
+          "id": "03-fill"
+        },
+        {
+          "name": "Filled command",
+          "id": "04-filled"
+        },
+        {
+          "name": "Lab",
+          "id": "05-lab"
+        },
+        {
+          "name": "Summary",
+          "id": "06-done"
+        }
+      ]
+    },
+    {
+      "id": "03-loops-and-variables",
+      "label": "Loops and variables",
+      "description": "Loops, procedures and variables - ways to write more powerful programs",
+      "level": "Advanced",
+      "steps": [
+        {
+          "name": "Loop",
+          "id": "01-loop"
+        },
+        {
+          "name": "Nested loop",
+          "id": "02-nested-loop"
+        },
+        {
+          "name": "Procedure",
+          "id": "03-procedure"
+        },
+        {
+          "name": "Procedure with parameters",
+          "id": "04-procedure-with-params"
+        },
+        {
+          "name": "Variables",
+          "id": "05-variables"
+        },
+        {
+          "name": "Changing the value of a variable",
+          "id": "06-change-variables"
+        },
+        {
+          "name": "Tutorial completion",
+          "id": "07-finish"
+        }
+      ]
+    },
+    {
+      "id": "04-advanced-graphics",
+      "label": "More graphic functions",
+      "description": "Coordinates, screen modes, advanced commands",
+      "level": "Advanced",
+      "steps": [
+        {
+          "name": "Coordinates",
+          "id": "01-coordinates"
+        },
+        {
+          "name": "Turtle's heading",
+          "id": "02-heading"
+        },
+        {
+          "name": "Home command",
+          "id": "03-home"
+        },
+        {
+          "name": "Drawing mode",
+          "id": "04-turtle-mode"
+        },
+        {
+          "name": "Changing the scale",
+          "id": "05-scrunch"
+        },
+        {
+          "name": "Clear the screen with background",
+          "id": "06-setbackground"
+        },
+        {
+          "name": "Tutorial completion",
+          "id": "07-finish"
+        }
+      ]
+    },
+    {
+      "id": "05-utilities",
+      "label": "Utilities",
+      "description": "Various useful functions including random, working with user input and other cool stuff",
+      "level": "Advanced",
+      "steps": [
+        {
+          "name": "Comments",
+          "id": "01-comments"
+        },
+        {
+          "name": "Randomization",
+          "id": "02-random"
+        },
+        {
+          "name": "Printing and reading",
+          "id": "03-print-and-read"
+        },
+        {
+          "name": "Wait",
+          "id": "04-wait"
+        },
+        {
+          "name": "Math",
+          "id": "05-math"
+        },
+        {
+          "name": "Finish",
+          "id": "06-finish"
+        }
+      ]
+    },
+    {
+      "id": "06-guru",
+      "label": "Guru",
+      "description": "For those who really wants to dive into deep programming. Advanced stuff including conditions, recursion, lists and more.",
+      "level": "Advanced",
+      "steps": [
+        {
+          "name": "Conditions",
+          "id": "01-conditions"
+        },
+        {
+          "name": "Various loops",
+          "id": "02-various-loops"
+        },
+        {
+          "name": "Lists",
+          "id": "03-lists"
+        },
+        {
+          "name": "Recursion and Fractals",
+          "id": "04-recursion"
+        },
+        {
+          "name": "Finish",
+          "id": "05-finish"
+        }
+      ]
+    }
+  ]
+}
